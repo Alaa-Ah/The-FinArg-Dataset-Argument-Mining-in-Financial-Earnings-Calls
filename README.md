@@ -1,4 +1,4 @@
-# The-FinArg-Dataset-Argument-Mining-in-Financial-Earnings-Calls
+# The-FinArg-Dataset: Argument-Mining-in-Financial-Earnings-Calls
 
 
 To use this data, please cite the following paper: 
