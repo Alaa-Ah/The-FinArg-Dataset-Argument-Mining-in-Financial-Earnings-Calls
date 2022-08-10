@@ -3,7 +3,7 @@
 
 To use this data, please cite the following paper: 
 Alhamzeh et al. **It’s Time to Reason: Annotating Argumentation Structures in Financial Earnings
-Calls: The FinArg Dataset** , 4th FinNLP worshop at IJCAI 2022
+Calls: The FinArg Dataset** , 4th FinNLP worshop at IJCAI 2022, published in the ACL Anthology.
 
 A (Temporal) link for the paper: https://mx.nthu.edu.tw/~chungchichen/FinNLP2022_IJCAI/3.pdf
 
