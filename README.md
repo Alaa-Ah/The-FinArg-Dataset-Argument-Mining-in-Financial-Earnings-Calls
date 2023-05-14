@@ -7,6 +7,8 @@ Workshop on Financial Technology and Natural Language Processing (FinNLP). Abu D
 Association for Computational Linguistics, Dec. 2022, pp. 163–169. URL: https://aclanthology.org/2022.finnlp-1.22 
 
 BibTex: 
+
+
 @inproceedings{alhamzeh-etal-2022-time,
     title = "It{'}s Time to Reason: Annotating Argumentation Structures in Financial Earnings Calls: The {F}in{A}rg Dataset",
     author = {Alhamzeh, Alaa  and
