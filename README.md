@@ -31,3 +31,6 @@ BibTex:
 The dataset covers 4 Companies (Facebook, Amazon, Apple and Microsoft) for the period of 2015-2019. 
 
 The original earnings transcripts was downloaded from https://site.financialmodelingprep.com/ and labeled using LabelStudio. 
+
+
+If you are looking further for argument quality assessment, please review this: https://github.com/Alaa-Ah/The-FinArgQuality-dataset-Quality-of-managers-arguments-in-Eearnings-Conference-Calls
